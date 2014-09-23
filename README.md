@@ -18,7 +18,7 @@ Although iPython is not a must have, I strongly recommend you install this advan
 # Steps
 You have two ways to fetch silk log data and process it
 
-####Rub silk.py in console
+####Run silk.py in console
 Execute silk.py in console directly.
 ```
 $ cd /path/to/silk.py
